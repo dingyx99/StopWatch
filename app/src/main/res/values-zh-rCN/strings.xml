@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">秒表</string>
+    <string name="title">秒表</string>
+    <string name="btn_clear">清零</string>
+    <string name="btn_start">启动</string>
+    <string name="btn_stop">停止</string>
+</resources>
